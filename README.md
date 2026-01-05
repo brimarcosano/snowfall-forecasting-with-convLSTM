@@ -1,3 +1,7 @@
+# Overview
+
+This project utilizes a Convolutional Neural Network and Long Short-Term Memory (ConvLSTM) model and multimodal data to predict weekly snowfall,
+
 # LSTM Only Documentation
 
 
@@ -18,3 +22,4 @@
 ### Other notes:
 
 - Code is currently set up to train on ONE New Hampshire county (set in preprocess_data.py), however I recieved similar results including multiple counties.
+
